@@ -98,7 +98,7 @@ include("kotest-bom")
 plugins {
    id("com.gradle.enterprise") version "3.9"
    // See https://jmfayard.github.io/refreshVersions
-   id("de.fayard.refreshVersions") version "0.40.1"
+   id("de.fayard.refreshVersions") version "0.40.2"
 }
 
 gradleEnterprise {
